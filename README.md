@@ -22,4 +22,4 @@
 
 # develop_eigyo_0006
 
-- test1
+- test2
